@@ -1,0 +1,1 @@
+{"name":"hakka-corpus","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node scripts.mjs serve","build":"node scripts.mjs build","test":"node --test tests/*.test.mjs","start":"node scripts.mjs serve"},"engines":{"node":">=22"}}
